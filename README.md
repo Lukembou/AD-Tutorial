@@ -25,7 +25,7 @@ This project outlines the setup of a Windows 10 virtual machine connected to a W
    - Set a static IP address.
    - Enable the DHCP Server role through **Server Manager**.
    - 
-  ![Install AD DS]!(https://github.com/Lukembou/AD-Tutorial/blob/main/2024-09-22%2020_00_10-Window.png)
+  ![Install AD DS]!(2024-09-22 20_00_10-Window.png)
 
 
 3. **Create a DHCP Scope**:
