@@ -18,13 +18,14 @@ This project outlines the setup of a Windows 10 virtual machine connected to a W
 
 ## Step 1: Setting Up Windows Server 2019
 
-1. **Install Windows Server 2019**:
+1. **Install Windows Server 2019 ISO**:
    - Follow the installation prompts and select the appropriate server edition.
-  
+
 2. **Configure the Server**:
    - Set a static IP address.
    - Enable the DHCP Server role through **Server Manager**.
-  
+  ![Install AD DS]([URL](https://github.com/Lukembou/AD-Tutorial/blob/main/2024-09-22%2020_00_10-Window.png?raw=true))
+
 3. **Create a DHCP Scope**:
    - Define a scope to manage IP address distribution.
    - Set options like default gateway and DNS servers.
